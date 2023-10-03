@@ -1,0 +1,6 @@
+¿Por qué C#?
+C# es un lenguaje de programaciónmoderno, innovador, de código abierto, multiplataforma orientado a objetos y uno de los 5 principales lenguajes de programación de GitHub.
+
+¿Tiene experiencia con JavaScript, Java o C++? C# le resultará familiar al instante y disfrutará de sus características en constante evolución, como seguridad de tipos, genéricos, coincidencia de patrones, asincrónico, registros, y mucho más.
+
+Esperamos que se haya enamorado de C# desde la primera pulsación de tecla.
